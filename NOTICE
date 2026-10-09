@@ -1,0 +1,16 @@
+Clevane
+Copyright 2026 Yannick Kibale
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes software and data from third parties:
+
+- libsodium, by Frank Denis, ISC License (bundled through swift-sodium).
+  https://libsodium.org
+
+- swift-sodium, Copyright (c) 2014-2026 Frank Denis, ISC License.
+  https://github.com/jedisct1/swift-sodium
+
+- The EFF large wordlist for passphrases, by the Electronic Frontier
+  Foundation, licensed under CC BY 3.0, used without its four
+  hyphenated words. https://www.eff.org/dice
